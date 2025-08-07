@@ -3,6 +3,9 @@ Added plugins:
 - Treesitter
 - Rose-pine
 - Telescope
+- Oil
+
+Added LSP
 
 Extra lua:
 - colors.lua to change terminal color
