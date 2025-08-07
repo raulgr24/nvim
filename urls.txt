@@ -3,3 +3,5 @@ https://github.com/nvim-treesitter/nvim-treesitter
 https://github.com/nvim-telescope/telescope.nvim  
 https://github.com/rose-pine/neovim
 https://github.com/ThePrimeagen/harpoon/tree/harpoon2
+https://github.com/tpope/vim-fugitive:w
+:
