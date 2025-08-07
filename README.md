@@ -5,5 +5,5 @@ Added plugins:
 - Telescope
 
 Extra lua:
--colors.lua to change terminal color
--remap.lua for key remaps
+- colors.lua to change terminal color
+- remap.lua for key remaps
