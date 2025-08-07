@@ -1,3 +1,6 @@
 require("config.lazy")
 require("raul")
 print("Init")
+vim.lsp.enable("lua-language-server")
+vim.lsp.enable("pyright")
+vim.lsp.enable("clangd")
