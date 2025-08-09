@@ -12,10 +12,11 @@ vim.opt.listchars = {
         --	  trail= "·",
         multispace = '···|',
         nbsp = 'x',
-        lead = '.',
+--        lead = '.',
         nbsp = '␣',
         --	precedes = '#',
 }
+vim.api.nvim_set_hl(0, "Whitespace", { fg = "#433333" })
 
 vim.opt.inccommand = 'split'
 
