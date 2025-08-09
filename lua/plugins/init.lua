@@ -27,3 +27,7 @@ require("plugins.fugitive")
 if verbose then
 	print("Fugitive loaded")
 end
+require("plugins.undotree")
+if verbose then
+	print("Undotree loaded")
+end
