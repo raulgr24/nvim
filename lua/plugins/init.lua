@@ -1,4 +1,4 @@
-local verbose = true
+local verbose = false
 require("plugins.rose-pine")
 if verbose then
 	print("Rose-Pine loaded")
@@ -30,4 +30,8 @@ end
 require("plugins.undotree")
 if verbose then
 	print("Undotree loaded")
+end
+require("plugins.colorizer")
+if verbose then
+	print("Colorizer loaded")
 end

@@ -7,14 +7,13 @@ vim.o.cursorline = true
 
 vim.o.list = true
 vim.opt.listchars = {
-        eol = '↵',
-        tab = '» ',
-        --	  trail= "·",
-        multispace = '···|',
-        nbsp = 'x',
---        lead = '.',
-        nbsp = '␣',
-        --	precedes = '#',
+	eol = '↵',
+	tab = '» ',
+	--trail= "·",
+	multispace = '···|',
+	--lead = '.',
+	nbsp = '␣',
+	--precedes = '#',
 }
 vim.api.nvim_set_hl(0, "Whitespace", { fg = "#433333" })
 
