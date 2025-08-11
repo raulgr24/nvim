@@ -35,3 +35,7 @@ require("plugins.colorizer")
 if verbose then
 	print("Colorizer loaded")
 end
+require("plugins.screenkey")
+if verbose then
+	print("Screenkey loaded")
+end

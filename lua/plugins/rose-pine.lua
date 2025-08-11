@@ -32,7 +32,7 @@ require("rose-pine").setup(
 			main = {
 				base = '#191724',
 				surface = '#1f1d2e',
-				overlay = '#26233a',
+				overlay = '#26333a',
 				pine = '#318cb0'
 			}
 		}
