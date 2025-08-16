@@ -1,7 +1,7 @@
 vim.o.mouse = ""
 vim.o.number = true
 vim.o.relativenumber = true
-
+vim.opt.swapfile = false
 vim.opt.signcolumn = 'yes'
 
 vim.o.cursorline = true

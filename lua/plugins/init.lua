@@ -39,3 +39,7 @@ require("plugins.screenkey")
 if verbose then
 	print("Screenkey loaded")
 end
+require("plugins.aerial")
+if verbose then
+	print("Aerial loaded")
+end
